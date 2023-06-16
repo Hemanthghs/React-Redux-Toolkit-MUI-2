@@ -26,7 +26,7 @@ const Users = () => {
       <CssBaseline />
       <Container style={{ marginTop: "20px" }}>
         <Typography variant="h3" align="center">
-          Users Data
+          - Users Data -
         </Typography>
       </Container>
       <Container style={{ marginTop: "30px" }}>
